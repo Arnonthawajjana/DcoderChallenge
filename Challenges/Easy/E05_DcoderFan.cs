@@ -13,11 +13,7 @@ namespace DcoderChallenge.Challenge.Easy
   {
     public static void Main(string[] args)
     {
-        int[] inputnumber = Array.ConvertAll(Console.ReadLine().Split(" ",StringSplitOptions.None), Convert.ToInt32);
-        if(inputnumber.Any(x => (1 > x && x > 1000)) )
-            Console.WriteLine("Oh God something Wrong");
-        else
-            Console.WriteLine(Convert.ToInt16(inputnumber[0] + inputnumber[1]));
+      //xxxx
     }
   }
 }
