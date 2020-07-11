@@ -10,7 +10,7 @@ namespace DcoderChallenge.Challenge.Easy
 {
     //Challenge
     //https://code.dcoder.tech/challenges/57c414c17b6a33c622e8e28d/the-irritating-students
-    public class E15_Problem_Statement
+    public class E15_The_Irritating_Students
     {
         public static List<int> InputNumber()
         {
