@@ -8,8 +8,8 @@ using System.Text.RegularExpressions;
 namespace DcoderChallenge.Challenge.Easy
 {
     //Challenge
-    //https://code.dcoder.tech/challenges/57c8a4577b6a33c622e8e744/the-predictor
-    public class E19_The_Predictor
+    //https://code.dcoder.tech/challenges/57ccaed07b6a33c622e8ed91/the-closest-to-average
+    public class E19_The_closest_to_Average
     {
         public static void Main(string[] args)
         {
