@@ -9,7 +9,7 @@ namespace DcoderChallenge.Challenge.Easy
 {
     //Challenge
     //https://code.dcoder.tech/challenges/57d84966a61b30057bce681c/find-me-the-divisor-count
-    public class E21_find_me_the_divisor_count
+    public class E21_Find_Me_The_Divisor_Count
     {
         public static void Main(string[] args)
         {
