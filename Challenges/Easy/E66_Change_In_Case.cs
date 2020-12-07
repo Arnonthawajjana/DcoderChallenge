@@ -11,7 +11,7 @@ namespace DcoderChallenge.Challenge.Easy
 {
     //Challenge
     //https://code.dcoder.tech/challenges/5b6db8d865139d414b2a656e/change-in-case
-    public class E67_Change_In_Case
+    public class E66_Change_In_Case
     {
         public static void Main(string[] args)
         {
