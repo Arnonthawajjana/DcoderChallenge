@@ -5,7 +5,7 @@ using System.Text;
 
 //Compiler version 4.0, .NET Framework 4.5
 
-namespace DcoderChallenge.Challenge.Hard
+namespace DcoderChallenge.Challenge.Medium
 {
     //Challenge
     //https://code.dcoder.tech/challenges/579b4d01bc006607246b41ae/learning-even-odds-with-strings-and-loops
